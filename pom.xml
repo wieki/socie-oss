@@ -81,4 +81,13 @@
 			<url>https://api.bintray.com/maven/socie/socie_oss/eu.socie.socie-oss</url>
 		</repository>
 	</distributionManagement>
+	<issueManagement>
+		<url>https://github.com/wieki/socie-oss/issues</url>
+		<system>github</system>
+	</issueManagement>
+	<scm>
+		<connection>scm:git:git@github.com:/wieki/socie-oss.git</connection>
+		<url>https://github.com/wieki/socie-oss</url>
+		<developerConnection>scm:git:git@github.com:/wieki/socie-oss.git</developerConnection>
+	</scm>
 </project>
