@@ -70,4 +70,10 @@
 			</plugins>
 		</pluginManagement>
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>bintray</id>
+			<url>https://api.bintray.com/maven/socie/socie_oss/eu.socie.socie-oss</url>
+		</repository>
+	</distributionManagement>
 </project>
